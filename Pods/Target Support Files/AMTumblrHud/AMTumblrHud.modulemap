@@ -1,0 +1,6 @@
+framework module AMTumblrHud {
+  umbrella header "AMTumblrHud-umbrella.h"
+
+  export *
+  module * { export * }
+}
